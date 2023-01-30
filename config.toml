@@ -49,7 +49,11 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   pageref = "/categories/"
-
+  
+  [[menu.main]]
+  name = "关于"
+  weight = 50
+  url = "/about"
 
 
 [params]
