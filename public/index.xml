@@ -6,6 +6,7 @@
     <description>Recent content on 科技大白话（IT-ABC）, - 用通俗的语言</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:04:54 +0800</lastBuildDate>
     
         <atom:link href="https://itabc.life/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +28,17 @@
 &lt;/ul&gt;
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
+      
+    </item>
+    
+    <item>
+      <title>Apage</title>
+      <link>https://itabc.life/post/apage/</link>
+      <pubDate>Sun, 29 Jan 2023 00:04:54 +0800</pubDate>
+      
+      <guid>https://itabc.life/post/apage/</guid>
+      
+        <description>&lt;h1 id=&#34;just-for-test&#34;&gt;just for test&lt;/h1&gt;</description>
       
     </item>
     
