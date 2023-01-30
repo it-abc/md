@@ -35,4 +35,3 @@ jobs:
           external_repository: it-abc/it-abc.github.io
           publish_branch: main  # default: gh-pages
           cname: itabc.life
-          
