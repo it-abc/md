@@ -30,7 +30,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          personal_token: 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
+          deploy_key: ${{ DEPLOYKEY }}
           publish_dir: ./public
           external_repository: it-abc/it-abc.github.io
           publish_branch: main  # default: gh-pages
